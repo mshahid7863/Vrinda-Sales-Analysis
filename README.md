@@ -1,5 +1,8 @@
 # Vrinda-Sales-Analysis
 
+<img align="center" alt="coding" width="600"  src="https://github.com/mshahid7863/AI-ML_Hackathon_Virtusa_2023/blob/main/TestCodeGen-2.png" >  
+
+
 ### About Dataset
 Vrinda Store: Interactive Ms Excel dashboardVrinda Store: Interactive Ms Excel dashboard
 The owner of Vrinda store wants to create an annual sales report for 2022. So that their employees can understand their customers and grow more sales further.
