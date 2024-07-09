@@ -1,6 +1,6 @@
 # Vrinda-Sales-Analysis
 
-<img align="center" alt="coding" width="600"  src="https://github.com/mshahid7863/AI-ML_Hackathon_Virtusa_2023/blob/main/TestCodeGen-2.png" >  
+<img align="center" alt="coding" width="600"  src="https://github.com/mshahid7863/Vrinda-Sales-Analysis/blob/main/Capture-1.PNG" >  
 
 
 ### About Dataset
