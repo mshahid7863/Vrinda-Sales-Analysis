@@ -1,6 +1,6 @@
 # Vrinda-Sales-Analysis
 
-<img align="center" alt="coding" width="600"  src="https://github.com/mshahid7863/Vrinda-Sales-Analysis/blob/main/Capture-1.PNG" >  
+<img align="center" alt="coding" width="1000"  src="https://github.com/mshahid7863/Vrinda-Sales-Analysis/blob/main/Capture-1.PNG" >  
 
 
 ### About Dataset
